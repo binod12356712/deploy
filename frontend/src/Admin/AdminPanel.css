@@ -1,0 +1,34 @@
+.admin-panel {
+  padding: 20px;
+}
+
+.admin-panel h2 {
+  margin-top: 0;
+}
+
+.admin-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.admin-table th,
+.admin-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.admin-table th {
+  background-color: #f2f2f2;
+  text-align: left;
+}
+
+.admin-table td a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+.admin-table button {
+  padding: 5px 10px;
+  font-size: 14px;
+  margin-right: 5px;
+}
